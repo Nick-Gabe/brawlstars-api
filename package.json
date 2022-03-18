@@ -1,7 +1,7 @@
 {
-  "name": "brawlstars-api",
+  "name": "brawlstars-api.js",
   "version": "1.0.0",
-  "description": "Complete module to interact with the Brawl Stars Api.",
+  "description": "A complete module to interact with the Brawl Stars Api.",
   "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,7 @@
     "url": "git+https://github.com/Nick-Gabe/brawlstars-api.git"
   },
   "keywords": [
+    "brawlstars",
     "brawl",
     "stars",
     "api",
