@@ -1,0 +1,32 @@
+{
+  "name": "brawlstars-api",
+  "version": "1.0.0",
+  "description": "Complete module to interact with the Brawl Stars Api.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-Gabe/brawlstars-api.git"
+  },
+  "keywords": [
+    "brawl",
+    "stars",
+    "api",
+    "wrapper",
+    "supercell"
+  ],
+  "author": {
+    "name" : "Nícolas Gabriel",
+    "email" : "NicolasGabrielCtt@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nick-Gabe/brawlstars-api/issues"
+  },
+  "homepage": "https://github.com/Nick-Gabe/brawlstars-api#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
