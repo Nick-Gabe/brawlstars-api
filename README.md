@@ -1,6 +1,6 @@
 # BrawlStars-API.js
-![](https://img.shields.io/github/package-json/v/Nick-Gabe/brawlstars-api)
-![](https://img.shields.io/github/issues/nick-gabe/brawlstars-api)
+![Version](https://img.shields.io/github/package-json/v/Nick-Gabe/brawlstars-api)
+![Issues](https://img.shields.io/github/issues/nick-gabe/brawlstars-api)
 
 **Brawlstars-api.js** is a library made to interact with the [Official Brawl Stars api](https://developer.brawlstars.com/#/), listing all of their endpoints in one place.
 

@@ -1,6 +1,6 @@
 {
   "name": "brawlstars-api.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A complete module to interact with the Brawl Stars Api.",
   "main": "src/main.js",
   "scripts": {
